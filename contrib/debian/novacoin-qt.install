@@ -1,0 +1,5 @@
+EcoCoin-qt usr/bin
+share/pixmaps/EcoCoin32.xpm usr/share/pixmaps
+share/pixmaps/EcoCoin80.xpm usr/share/pixmaps
+debian/EcoCoin-qt.desktop usr/share/applications
+debian/EcoCoin-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,11 @@
+[Unit]
+Description=EcoCoin daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=EcoCoin
+ExecStart=/opt/EcoCoin/EcoCoind
+
+[Install]
+WantedBy=multi-user.target
